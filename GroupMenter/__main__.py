@@ -83,11 +83,11 @@ Hit /help to find out more about how to use me to my full potential.
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/GroupMenterRobot?startgroup=true"),
+            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/HmxGroupManagementBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Updates", url="https://t.me/GroupMenterUpdates"),
-        InlineKeyboardButton(text="Support", url="https://t.me/GroupMenterGroup"),
+        InlineKeyboardButton(text="Updates", url="https://t.me/SmxUpdates"),
+        InlineKeyboardButton(text="Support", url="https://t.me/SmxSupportGroup"),
     ],
     [
         InlineKeyboardButton(
@@ -98,7 +98,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-Hey There! My name is Group Menter.
+Hey There! My name is Thomas Shelby.
 I'm here to help you manage your groups!
 
 Commands available:
@@ -116,7 +116,7 @@ Your donation might also me get me a new feature or two, which I wasn't able to 
 
 All the fund would be put into my services such as database, storage and hosting!.
 
-You Can donate to this bot via [PayPal](paypal.me/vivektvp) Or [Buy Me a Coffee.](https://ko-fi.com/VIVEKTP)"""
+You Can donate to this bot via [PayPal](paypal.me/vivektvp) Or [Buy Me a Coffee.](https://ko-fi.com/Hamzavibes)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
